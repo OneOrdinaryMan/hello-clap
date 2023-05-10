@@ -1,5 +1,7 @@
 [package]
 name = "hello_clap"
+authors = ["One_Ordinary_Man"]
+description = "Hello world with clap"
 version = "0.1.0"
 edition = "2021"
 
